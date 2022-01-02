@@ -2,7 +2,7 @@
 title: "Hello World"
 author: "RF"
 date: "1/2/2022"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
