@@ -1,0 +1,15 @@
+#---
+#title: "Hello World"
+#author: "RF"
+#date: "1/2/2022"
+#output: github_document
+#---
+
+#+ r setup, include=FALSE
+#knitr::opts_chunk$set(echo = TRUE)
+
+
+#Checking some code
+#+ r
+matter <- c('GM', 'WM')
+
